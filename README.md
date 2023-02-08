@@ -11,7 +11,7 @@ BE: 김승수(PM), 김가은
 - 동적라우팅
 - 조건부 렌더링
 
-https://user-images.githubusercontent.com/58460131/217431720-31ee7d6c-52bc-42c1-89ef-3bce041e4beb.mp4
+
 
 
 
@@ -20,5 +20,7 @@ https://user-images.githubusercontent.com/58460131/217431720-31ee7d6c-52bc-42c1-
 - 캘린더 기능
 - 이미지 업로드 및 미리보기
 - 조건부 렌더링
+
+https://user-images.githubusercontent.com/58460131/217431720-31ee7d6c-52bc-42c1-89ef-3bce041e4beb.mp4
 
 
