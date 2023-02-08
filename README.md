@@ -1,7 +1,10 @@
 
-개발
+
+# 🔥 TEAM
+### Team Name : Wehicle 🚙
 FE: 김진우(PM), 오현주, 박정은
 BE: 김승수(PM), 김가은
+
 
 # 내가 맡은 페이지 및 기능들
 
@@ -11,8 +14,7 @@ BE: 김승수(PM), 김가은
 - 동적라우팅
 - 조건부 렌더링
 
-
-
+https://user-images.githubusercontent.com/58460131/217432855-2c31ed7d-fd75-4dac-8324-9a689b04fcd4.mp4
 
 
 
